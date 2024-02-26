@@ -35,6 +35,7 @@ cd Js-remover-from-pdf
 ```bash
 python js_remover.py <path_to_your_pdf> <output_pdf>
 ```
+![image](https://github.com/pwnmeow/Js-remover-from-pdf/assets/10785234/8ce70047-76d3-4f75-86ce-d0f8a76aa937)
 
 Replace `<path_to_your_pdf>` with the actual path to the PDF file you want to process.
 
